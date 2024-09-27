@@ -1,0 +1,13 @@
+# ignore the venv
+venv/
+
+# ignore the testing files
+testing.csv
+testing.jsonl
+
+# ignore the output
+eventscraper/output/
+
+# default gitignore
+/shelf/
+/workspace.xml
