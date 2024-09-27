@@ -14,3 +14,6 @@ eventscraper/output/
 
 # ignore the database
 canooevents.db
+
+# ignore the .idea folder
+.idea/
