@@ -11,3 +11,6 @@ eventscraper/output/
 # default gitignore
 /shelf/
 /workspace.xml
+
+# ignore the database
+canooevents.db
